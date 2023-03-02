@@ -4,7 +4,6 @@
 
 # list_length = int(input("Введите длину списка: "))
 # list = []
-# count = 0
 # for i in range (1, list_length + 1):
 #     list.append(i)
 # print(*list)
